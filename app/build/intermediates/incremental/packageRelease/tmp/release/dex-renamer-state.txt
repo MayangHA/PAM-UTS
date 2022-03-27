@@ -1,0 +1,4 @@
+#Sun Mar 27 13:21:07 WIB 2022
+base.0=/home/may/PAM_UTS/android/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
